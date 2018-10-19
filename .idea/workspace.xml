@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e899839-f78a-49a5-8875-f9620f7378b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10-GroupedHistogran&amp;DepthOptimizationChart/GroupedHistogran&amp;DepthOptimizationChart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-GroupedHistogran&amp;DepthOptimizationChart/Students.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-InputFunction/Books.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6-InputFunction/InputFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-Sequence/List.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7-Sequence/Sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-DataFiltering/DataFiltering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8-DataFiltering/Students.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Histogram/Histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-Histogram/Students.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-SuperimposedHistogram&amp;HorizontalHistogram/SuperimposedHistogram&amp;HorizontalHistogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-SuperimposedHistogram&amp;HorizontalHistogram/Users.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-PieChart/PieChart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-PieChart/Students.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-PolylineTrendChart&amp;OverlayAreaMap/Orders.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-PolylineTrendChart&amp;OverlayAreaMap/PolylineTrendChart&amp;OverlayAreaMap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-ScatterPlot&amp;Histogram&amp;DensityMap/ScatterPlot&amp;Histogram&amp;DensityMap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-ScatterPlot&amp;Histogram&amp;DensityMap/home_data.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,23 +22,24 @@
     <session id="446710198">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="15" />
+          <entry key="py" value="21" />
           <entry key="pyi" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="15" />
+          <entry key="Python" value="21" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
@@ -49,14 +47,14 @@
         <counts>
           <entry key="dummy" value="9" />
           <entry key="md" value="2" />
-          <entry key="py" value="4230" />
+          <entry key="py" value="5548" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="4230" />
+          <entry key="Python" value="5548" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -69,7 +67,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="450">
-                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+                <caret line="15" selection-start-line="15" selection-end-line="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -77,57 +75,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6-InputFunction/InputFunction.py">
+        <entry file="file://$PROJECT_DIR$/12-PieChart/PieChart.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="217">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <marker date="1539827427366" expanded="true" signature="526:664" ph="..." />
+                <element signature="e#86#105#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7-Sequence/Sequence.py">
+        <entry file="file://$PROJECT_DIR$/13-PolylineTrendChart&amp;OverlayAreaMap/PolylineTrendChart&amp;OverlayAreaMap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8-DataFiltering/DataFiltering.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="10" selection-end-column="15" />
+            <state relative-caret-position="155">
+              <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="12" />
               <folding>
-                <marker date="1539830705330" expanded="true" signature="250:933" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9-Histogram/Histogram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#84#103#0" expanded="true" />
+                <element signature="e#86#105#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/10-GroupedHistogran&amp;DepthOptimizationChart/GroupedHistogran&amp;DepthOptimizationChart.py">
+        <entry file="file://$PROJECT_DIR$/14-ScatterPlot&amp;Histogram&amp;DensityMap/ScatterPlot&amp;Histogram&amp;DensityMap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="647">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="666">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
-                <element signature="e#84#103#0" expanded="true" />
+                <element signature="e#93#112#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,10 +140,14 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/6-InputFunction/InputFunction.py" />
         <option value="$PROJECT_DIR$/7-Sequence/sequence.py" />
-        <option value="$PROJECT_DIR$/7-Sequence/Sequence.py" />
         <option value="$PROJECT_DIR$/8-DataFiltering/DataFiltering.py" />
         <option value="$PROJECT_DIR$/9-Histogram/Histogram.py" />
         <option value="$PROJECT_DIR$/10-GroupedHistogran&amp;DepthOptimizationChart/GroupedHistogran&amp;DepthOptimizationChart.py" />
+        <option value="$PROJECT_DIR$/7-Sequence/Sequence.py" />
+        <option value="$PROJECT_DIR$/11-SuperimposedHistogram&amp;HorizontalHistogram/SuperimposedHistogram&amp;HorizontalHistogram.py" />
+        <option value="$PROJECT_DIR$/12-PieChart/PieChart.py" />
+        <option value="$PROJECT_DIR$/13-PolylineTrendChart&amp;OverlayAreaMap/PolylineTrendChart&amp;OverlayAreaMap.py" />
+        <option value="$PROJECT_DIR$/14-ScatterPlot&amp;Histogram&amp;DensityMap/ScatterPlot&amp;Histogram&amp;DensityMap.py" />
       </list>
     </option>
   </component>
@@ -174,13 +155,14 @@
     <option name="x" value="1280" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="1336" />
+    <option name="height" value="1333" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,18 +173,12 @@
             <path>
               <item name="PandasVersusExcel" type="b2602c69:ProjectViewProjectNode" />
               <item name="PandasVersusExcel" type="462c0819:PsiDirectoryNode" />
-              <item name="9-Histogram" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PandasVersusExcel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PandasVersusExcel" type="462c0819:PsiDirectoryNode" />
-              <item name="10-GroupedHistogran&amp;DepthOptimizationChart" type="462c0819:PsiDirectoryNode" />
+              <item name="14-ScatterPlot&amp;Histogram&amp;DensityMap" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,15 +186,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/10-GroupedHistogran&amp;DepthOptimizationChart" />
-      <recent name="$PROJECT_DIR$/9-Histogram" />
-      <recent name="$PROJECT_DIR$/8-DataFiltering" />
-      <recent name="$PROJECT_DIR$/7-Sequence" />
-      <recent name="$PROJECT_DIR$/6-InputFunction" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ReadExcel" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/14-ScatterPlot&amp;Histogram&amp;DensityMap" />
+      <recent name="$PROJECT_DIR$/13-PolylineTrendChart&amp;OverlayAreaMap" />
+      <recent name="$PROJECT_DIR$/12-PieChart" />
+      <recent name="$PROJECT_DIR$/11-SuperimposedHistogram&amp;HorizontalHistogram" />
+      <recent name="$PROJECT_DIR$/10-GroupedHistogran&amp;DepthOptimizationChart" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -233,28 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GroupedHistogran&amp;DepthOptimizationChart">
-    <configuration name="DataFiltering" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PandasVersusExcel" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8-DataFiltering" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8-DataFiltering/DataFiltering.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ScatterPlot&amp;Histogram&amp;DensityMap">
     <configuration name="GroupedHistogran&amp;DepthOptimizationChart" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PandasVersusExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PieChart" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PandasVersusExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,11 +239,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9-Histogram" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12-PieChart" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-Histogram/Histogram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12-PieChart/PieChart.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,7 +252,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="InputFunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PolylineTrendChart&amp;OverlayAreaMap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PandasVersusExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,11 +260,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6-InputFunction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13-PolylineTrendChart&amp;OverlayAreaMap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6-InputFunction/InputFunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13-PolylineTrendChart&amp;OverlayAreaMap/PolylineTrendChart&amp;OverlayAreaMap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ScatterPlot&amp;Histogram&amp;DensityMap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PandasVersusExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,11 +281,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7-Sequence" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14-ScatterPlot&amp;Histogram&amp;DensityMap" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7-Sequence/Sequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14-ScatterPlot&amp;Histogram&amp;DensityMap/ScatterPlot&amp;Histogram&amp;DensityMap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SuperimposedHistogram&amp;HorizontalHistogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PandasVersusExcel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11-SuperimposedHistogram&amp;HorizontalHistogram" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11-SuperimposedHistogram&amp;HorizontalHistogram/SuperimposedHistogram&amp;HorizontalHistogram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,19 +316,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.InputFunction" />
-      <item itemvalue="Python.Sequence" />
-      <item itemvalue="Python.DataFiltering" />
-      <item itemvalue="Python.Histogram" />
       <item itemvalue="Python.GroupedHistogran&amp;DepthOptimizationChart" />
+      <item itemvalue="Python.SuperimposedHistogram&amp;HorizontalHistogram" />
+      <item itemvalue="Python.PieChart" />
+      <item itemvalue="Python.PolylineTrendChart&amp;OverlayAreaMap" />
+      <item itemvalue="Python.ScatterPlot&amp;Histogram&amp;DensityMap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ScatterPlot&amp;Histogram&amp;DensityMap" />
+        <item itemvalue="Python.PolylineTrendChart&amp;OverlayAreaMap" />
+        <item itemvalue="Python.PieChart" />
+        <item itemvalue="Python.SuperimposedHistogram&amp;HorizontalHistogram" />
         <item itemvalue="Python.GroupedHistogran&amp;DepthOptimizationChart" />
-        <item itemvalue="Python.Histogram" />
-        <item itemvalue="Python.DataFiltering" />
-        <item itemvalue="Python.Sequence" />
-        <item itemvalue="Python.InputFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +346,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="23" width="1280" height="1336" extended-state="0" />
+    <frame x="1280" y="23" width="1280" height="1333" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15806195" />
@@ -378,7 +354,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.329582" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2757235" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27558422" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995177" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,6 +367,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15806195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2757235" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995177" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -400,16 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="766">
           <caret line="37" column="21" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -473,43 +458,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="4" selection-end-column="12" />
-          <folding>
-            <element signature="e#109#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-Sequence/Sequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/6-InputFunction/InputFunction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="12" />
+        <state relative-caret-position="62">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
           <folding>
             <marker date="1539827427366" expanded="true" signature="526:664" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/7-Sequence/Sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/8-DataFiltering/DataFiltering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <marker date="1539830705330" expanded="true" signature="250:933" ph="..." />
-          </folding>
+        <state relative-caret-position="248">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9-Histogram/Histogram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="310">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
             <element signature="e#84#103#0" expanded="true" />
           </folding>
@@ -518,10 +497,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10-GroupedHistogran&amp;DepthOptimizationChart/GroupedHistogran&amp;DepthOptimizationChart.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state>
+          <caret selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1757463554/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="477" column="4" selection-start-line="477" selection-start-column="4" selection-end-line="477" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-SuperimposedHistogram&amp;HorizontalHistogram/SuperimposedHistogram&amp;HorizontalHistogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-PieChart/PieChart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#84#103#0" expanded="true" />
+            <element signature="e#86#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-PolylineTrendChart&amp;OverlayAreaMap/PolylineTrendChart&amp;OverlayAreaMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" selection-start-line="5" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#86#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-ScatterPlot&amp;Histogram&amp;DensityMap/ScatterPlot&amp;Histogram&amp;DensityMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#93#112#0" expanded="true" />
           </folding>
         </state>
       </provider>
