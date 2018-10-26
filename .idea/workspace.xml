@@ -2,18 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e899839-f78a-49a5-8875-f9620f7378b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/16-Join/Join.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-Join/Student_Score.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-DataValidation/DataValidation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-DataValidation/Students.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-DataSegmentation/DataSegmentation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-DataSegmentation/Employees.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-Statistics/Statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-Statistics/Students.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-DuplicateData/DuplicateData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-DuplicateData/Students_Duplicates.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-RotateDataSet/RotateDataSet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21-RotateDataSet/Videos.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-ReadData/ReadData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-ReadData/Students.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-ReadData/Students.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-ReadData/Students.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-GroupBy/GroupBy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-GroupBy/Orders.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-DataPrediction/DataPrediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-DataPrediction/Sales.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting01.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting02.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/Students.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14&amp;15-ScatterPlot&amp;Histogram&amp;DensityMap/ScatterPlot&amp;Histogram&amp;DensityMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/14&amp;15-ScatterPlot&amp;Histogram&amp;DensityMap/ScatterPlot&amp;Histogram&amp;DensityMap.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,40 +30,50 @@
     <session id="446710198">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="csv" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="ipynb" value="2" />
           <entry key="md" value="1" />
-          <entry key="py" value="36" />
+          <entry key="py" value="47" />
           <entry key="pyi" value="1" />
+          <entry key="tsv" value="1" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="IPNB" value="2" />
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="36" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="47" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="9" />
+          <entry key="dummy" value="11" />
+          <entry key="gitignore" value="5" />
           <entry key="md" value="2" />
-          <entry key="py" value="7132" />
+          <entry key="py" value="8382" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="7132" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="8382" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -67,61 +82,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret line="12" selection-start-line="12" selection-end-line="12" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/21-RotateDataSet/RotateDataSet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/17-DataValidation/DataValidation.py">
+        <entry file="file://$PROJECT_DIR$/22-ReadData/ReadData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="62">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/23-GroupBy/GroupBy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <marker date="1540351962796" expanded="true" signature="320:438" ph="..." />
+                <element signature="e#102#121#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/18-DataSegmentation/DataSegmentation.py">
+        <entry file="file://$PROJECT_DIR$/24-DataPrediction/DataPrediction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="23" />
+            <state relative-caret-position="434">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding>
+                <element signature="e#92#111#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/19-Statistics/Statistics.py">
+        <entry file="file://$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="628">
+              <caret line="26" selection-start-line="26" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding>
+                <element signature="e#91#110#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20-DuplicateData/DuplicateData.py">
+        <entry file="file://$PROJECT_DIR$/25&amp;26-ConditionalFormatting/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16-Join/Join.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="31">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -170,6 +197,16 @@
         <option value="$PROJECT_DIR$/19-Statistics/Statistics.py" />
         <option value="$PROJECT_DIR$/16-Join/Join.py" />
         <option value="$PROJECT_DIR$/20-DuplicateData/DuplicateData.py" />
+        <option value="$PROJECT_DIR$/21-RotateDataSet/RotateDataSet.py" />
+        <option value="$PROJECT_DIR$/22-ReadData/ReadData.py" />
+        <option value="$PROJECT_DIR$/23-GroupBy/GroupBy.py" />
+        <option value="$PROJECT_DIR$/24-DataPrediction/DataPrediction.py" />
+        <option value="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting.ipynb" />
+        <option value="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting.py" />
+        <option value="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/.ipynb_checkpoints/ConditionalFormatting02.py" />
+        <option value="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting01.py" />
+        <option value="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/02.py" />
+        <option value="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/.gitignore" />
       </list>
     </option>
   </component>
@@ -179,12 +216,14 @@
     <option name="width" value="1280" />
     <option name="height" value="1333" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,12 +234,13 @@
             <path>
               <item name="PandasVersusExcel" type="b2602c69:ProjectViewProjectNode" />
               <item name="PandasVersusExcel" type="462c0819:PsiDirectoryNode" />
-              <item name="20-DuplicateData" type="462c0819:PsiDirectoryNode" />
+              <item name="25&amp;26-ConditionalFormatting" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,15 +248,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/20-DuplicateData" />
-      <recent name="$PROJECT_DIR$/19-Statistics" />
-      <recent name="$PROJECT_DIR$/18-DataSegmentation" />
-      <recent name="$PROJECT_DIR$/17-DataValidation" />
-      <recent name="$PROJECT_DIR$/16-Join" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ReadExcel" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/25&amp;26-ConditionalFormatting" />
+      <recent name="$PROJECT_DIR$/24-DataPrediction" />
+      <recent name="$PROJECT_DIR$/23-GroupBy" />
+      <recent name="$PROJECT_DIR$/22-ReadData" />
+      <recent name="$PROJECT_DIR$/21-RotateDataSet" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -231,8 +271,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DuplicateData">
-    <configuration name="DataSegmentation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ConditionalFormatting02">
+    <configuration name="ConditionalFormatting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PandasVersusExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,11 +280,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18-DataSegmentation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25&amp;26-ConditionalFormatting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18-DataSegmentation/DataSegmentation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DataValidation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ConditionalFormatting02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PandasVersusExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,11 +301,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17-DataValidation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25&amp;26-ConditionalFormatting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17-DataValidation/DataValidation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +314,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DuplicateData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DataPrediction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PandasVersusExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,11 +322,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20-DuplicateData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24-DataPrediction" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20-DuplicateData/DuplicateData.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24-DataPrediction/DataPrediction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +335,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Join" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GroupBy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PandasVersusExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,11 +343,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-Join" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/23-GroupBy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-Join/Join.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23-GroupBy/GroupBy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,7 +356,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Statistics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ReadData" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PandasVersusExcel" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,11 +364,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19-Statistics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22-ReadData" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19-Statistics/Statistics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22-ReadData/ReadData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,19 +378,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Join" />
-      <item itemvalue="Python.DataValidation" />
-      <item itemvalue="Python.DataSegmentation" />
-      <item itemvalue="Python.Statistics" />
-      <item itemvalue="Python.DuplicateData" />
+      <item itemvalue="Python.ReadData" />
+      <item itemvalue="Python.GroupBy" />
+      <item itemvalue="Python.DataPrediction" />
+      <item itemvalue="Python.ConditionalFormatting" />
+      <item itemvalue="Python.ConditionalFormatting02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DuplicateData" />
-        <item itemvalue="Python.Statistics" />
-        <item itemvalue="Python.DataSegmentation" />
-        <item itemvalue="Python.DataValidation" />
-        <item itemvalue="Python.Join" />
+        <item itemvalue="Python.ConditionalFormatting02" />
+        <item itemvalue="Python.ConditionalFormatting" />
+        <item itemvalue="Python.DataPrediction" />
+        <item itemvalue="Python.GroupBy" />
+        <item itemvalue="Python.ReadData" />
       </list>
     </recent_temporary>
   </component>
@@ -367,22 +407,31 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="23" width="1280" height="1333" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15806195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15806195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.329582" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27558422" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32957292" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27558422" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39887187" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32957292" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32957292" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -469,20 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4&amp;5-ReadData&amp;BaseInput/ReadData&amp;BaseInput.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8-DataFiltering/DataFiltering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9-Histogram/Histogram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
@@ -504,16 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret line="12" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11-SuperimposedHistogram&amp;HorizontalHistogram/SuperimposedHistogram&amp;HorizontalHistogram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -532,9 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding>
-            <element signature="e#86#105#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -552,23 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/18-DataSegmentation/DataSegmentation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17-DataValidation/DataValidation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <marker date="1540351962796" expanded="true" signature="320:438" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/14&amp;15-ScatterPlot&amp;Histogram&amp;DensityMap/ScatterPlot&amp;Histogram&amp;DensityMap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -576,20 +581,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/19-Statistics/Statistics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6-InputFunction/InputFunction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
           <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-          <folding>
-            <marker date="1539827427366" expanded="true" signature="526:664" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -600,17 +595,161 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="372">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17-DataValidation/DataValidation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-DataSegmentation/DataSegmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19-Statistics/Statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/16-Join/Join.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
+        <state relative-caret-position="155">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20-DuplicateData/DuplicateData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state>
+          <caret selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-ReadData/Students.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-ReadData/Students.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-ReadData/Students.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4&amp;5-ReadData&amp;BaseInput/ReadData&amp;BaseInput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-DataFiltering/DataFiltering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21-RotateDataSet/RotateDataSet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-ReadData/ReadData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23-GroupBy/GroupBy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#102#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25&amp;26-ConditionalFormatting/.ipynb_checkpoints/ConditionalFormatting02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#91#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24-DataPrediction/DataPrediction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#92#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting01.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="26" selection-start-line="26" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25&amp;26-ConditionalFormatting/ConditionalFormatting02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="e#91#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25&amp;26-ConditionalFormatting/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
