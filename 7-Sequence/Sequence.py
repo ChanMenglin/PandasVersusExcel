@@ -1,7 +1,7 @@
 # pandasVersusExcel
-# # http://sa.mentorx.net/course/89/tasks
-# # 第七课 排序，多重排序
-# # 2018-10-18
+# http://sa.mentorx.net/course/89/tasks
+# 第七课 排序，多重排序
+# 2018-10-18
 
 import pandas as pd
 
