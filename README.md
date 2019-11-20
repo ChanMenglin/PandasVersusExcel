@@ -16,7 +16,7 @@
 * [11 - 绘制分组柱图，深度优化图表](11-SuperimposedHistogram&HorizontalHistogram/SuperimposedHistogram&HorizontalHistogram.py)
 * [12 - 绘制饼图](12-PieChart/PieChart.py)
 * [13 - 绘制折线趋势图、叠加区域图](13-PolylineTrendChart&OverlayAreaMap/PolylineTrendChart&OverlayAreaMap.py)
-* [14%15 - 散点图，直方图，密度图,密度图，数据相关性](14%2615-ScatterPlot&Histogram&DensityMap/ScatterPlot&Histogram&DensityMap.py)
+* [14&15 - 散点图，直方图，密度图，·密度图，数据相关性](14%2615-ScatterPlot&Histogram&DensityMap/ScatterPlot&Histogram&DensityMap.py)
 * [16 - 多表联合（Join）](16-Join/Join.py)
 * [17 - 数据校验，轴的概念](17-DataValidation/DataValidation.py)
 * [18 - 把一列数据分割成两列](18-DataSegmentation/DataSegmentation.py)
@@ -36,5 +36,4 @@
 
 ---
 鸣谢：  
-[Pandas玩转Excel - Python数据分析轻松学](http://sa.mentorx.net/course/89/notes) 讲师：
-[Timothy](http://sa.mentorx.net/user/25)
+[Pandas玩转Excel - Python数据分析轻松学](http://sa.mentorx.net/course/89/notes) 讲师：[Timothy](http://sa.mentorx.net/user/25)
