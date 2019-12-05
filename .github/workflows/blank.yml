@@ -1,0 +1,13 @@
+name: Deploy to Github Pages
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Deploy to GitHub Pages - Python
+      uses: JacksonMaxfield/github-pages-deploy-action-python@2.1.0
